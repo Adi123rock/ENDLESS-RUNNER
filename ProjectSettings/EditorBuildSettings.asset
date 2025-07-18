@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 547d9051988515943ad2148d4f59a997
+  - enabled: 1
+    path: Assets/Scenes/DesertRun.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 21fe228373c04d04f986321e11775797
+  - enabled: 1
+    path: Assets/Scenes/IceRun.unity
+    guid: 9af2e71262c7bdb48b63dff45c9161a5
   m_configObjects: {}
